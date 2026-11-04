@@ -1,5 +1,10 @@
-# portafolio-evnd
-Portafolio de proyectos desarrollados por la estudiante de Ingeniería en entornos virtuales y negocios digitales Fernanda Juárez
+# Portafolio de Fernanda Juárez Domínguez
+### Ingeniera en Entornos Virtuales y Negocios Digitales
 
-## Video proyecto Cempasuchil
-Puedes ver el cortometraje animado 3D aquí: [Haz clic para ver el video en YouTube]([https://youtube.com/tu-link-aqui](https://youtu.be/fIO_EJekAJU))
+¡Bienvenido/a a mi portafolio! Aquí encontrarás una recopilación de mis proyectos de desarrollo, modelado 3D y diseño de entornos virtuales.
+
+-----
+
+## 🎬 Cortometraje 3D: La Leyenda de la Flor de Cempasúchil
+Proyecto de animación y modelado 3D creado en Blender y editado con After Effects.
+👉 **[Haz clic aquí para ver el video en YouTube](https://youtu.be/fIO_EJekAJU)**
